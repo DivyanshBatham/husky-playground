@@ -1,5 +1,4 @@
-const x = "XX";
+const x = 'XX';
 console.log(x);
-x = "YY";
-console.log(x);
-
+const y = 'YY';
+console.log(y);
